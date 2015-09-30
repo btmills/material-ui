@@ -1,5 +1,15 @@
 build
 coverage
 docs
-example
+examples
 icon-builder
+src
+test
+
+.editorconfig
+.eslintrc
+.eslintignore
+.gitattributes
+.travis.yml
+gulpfile.js
+karma.conf.js
